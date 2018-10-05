@@ -8,7 +8,7 @@
 * [CanvasJS](https://canvasjs.com/) - Javascriprt chart library.  
 * [Express](https://expressjs.com/) - Web framework for Node.js
 * [MongoDB](https://www.mongodb.com/) - NoSQL Database. 
-* [Mongoose](https://www.themoviedb.org/) - Mongoose is an Object Data Modeling (ODM) library for MongoDB and NodeJS.
+* [Mongoose](https://mongoosejs.com/) - Mongoose is an Object Data Modeling (ODM) library for MongoDB and NodeJS.
 
 # Instalation
 
