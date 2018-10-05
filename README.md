@@ -16,3 +16,4 @@ Download the project and run `npm install` to install npm packages.
 
 # Preview
 
+![Alt Text](https://raw.githubusercontent.com/NikosDev/Realtime_Poll/master/Priview.gif)
