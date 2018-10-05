@@ -1,6 +1,6 @@
 # Demo
 
-[https://realtime-poll.herokuapp.com/](https://realtime-poll.herokuapp.com/)   :octocat:
+[https://realtime-poll.herokuapp.com/](https://realtime-poll.herokuapp.com/)   &nbsp; :octocat:
 
 # Build With
 
